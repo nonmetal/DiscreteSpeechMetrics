@@ -20,6 +20,13 @@ setup(
         'jellyfish>=1.0.3',
         'openai-whisper',
         'jiwer',
+        'speechbrain',
+        'torchmetrics',
+        'onnxruntime',
+        'pyparsing==3.1.1',
+        'idna==3.10',
+        'six==1.17.0'
+        
     ],
     author='Takaaki-Saeki',
     author_email='saefrospace@gmail.com',
